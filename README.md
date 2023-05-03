@@ -47,5 +47,4 @@ https://github.com/mariankubalec/be-ms-posts
 
 [Back to Table of Content](#table-of-content)
 
----
-the end
+*= the end =*
