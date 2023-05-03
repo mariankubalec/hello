@@ -8,7 +8,6 @@ Welcome to my page, my name is Marian Kubalec and I'm a alumni of Green Fox Acad
   * [todo-user](#todo-user) (BE: Django (Python), FE: VueJS)
   * [be-ms-posts](#be-ms-posts) (Spring Boot (Java))
 
-&nbsp;
 
 ## Work with me
 
@@ -26,7 +25,6 @@ Other ICT techs I worked with as a PM (from design to realisation):
 
 [Back to Table of Content](#table-of-content)
 
-&nbsp; 
 
 ## My coding projects
 
