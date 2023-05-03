@@ -2,7 +2,6 @@
 
 Welcome to my page, my name is Marian Kubalec and I'm a alumni of Green Fox Academy. I'm specializing in Backend and this is my progression in my after-course time, where I'm sharpening my skills to become an even better candidate.
 
----
 ## Table of Content
 * [Work with me](#work-with-me)
 * [My coding projects](#my-coding-projects)
@@ -11,7 +10,6 @@ Welcome to my page, my name is Marian Kubalec and I'm a alumni of Green Fox Acad
 
 &nbsp;
 
----
 ## Work with me
 
 LinkedIn: https://www.linkedin.com/in/marian-kubalec/
@@ -20,7 +18,7 @@ Techs, that I have some experiences with:
 
 ***GIT, HTML, CSS, SQL, Spring Boot (Java) with Gradle, Thymeleaf, Hibernate, JPA, JUnit, Django (Python), MQL5, , Vue.JS, MySQL, PostgreSQL, Docker, REST API, JWT ... and tools like: Jira, GitHub, CircleCI, IntelliJ IDEA, PyCharm, VS Code.*** 
 
-:I participated on SW project developed by ***Scrum methodology***.
+I participated on SW project developed by ***Scrum methodology***.
 
 Other ICT techs I worked with as a PM (from design to realisation): 
 
@@ -28,9 +26,8 @@ Other ICT techs I worked with as a PM (from design to realisation):
 
 [Back to Table of Content](#table-of-content)
 
-&nbsp; \
+&nbsp; 
 
----
 ## My coding projects
 
 ### todo-user:
