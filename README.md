@@ -2,7 +2,7 @@
 
 Welcome to my page, my name is Marian Kubalec and I'm a alumni of Green Fox Academy. I'm specializing in Backend and this is my progression in my after-course time, where I'm sharpening my skills to become an even better candidate.
 
-## Table of Content
+### Table of Content
 * [Work with me](#work-with-me)
 * [My coding projects](#my-coding-projects)
   * [todo-user](#todo-user) (BE: Django (Python), FE: VueJS)
