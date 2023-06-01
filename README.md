@@ -49,7 +49,7 @@ https://github.com/mariankubalec/be-ms-posts
 [Back to Table of Content](#table-of-content)
 
 ### OOP study project:
-https://github.com/mariankubalec/be-ms-posts
+https://github.com/mariankubalec/hello/detailed/oop
 * RPG game
 * Java
 
