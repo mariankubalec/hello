@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/marian-kubalec/
 
 Techs, that I have some experiences with:
 
-***GIT, HTML, CSS, SQL, Spring Boot (Java) with Gradle, Thymeleaf, Hibernate, JPA, JUnit, Django (Python), MQL5, , Vue.JS, MySQL, PostgreSQL, Docker, REST API, JWT ... and tools like: Jira, GitHub, CircleCI, IntelliJ IDEA, PyCharm, VS Code.*** 
+***GIT, HTML, CSS, SQL, Spring Boot (Java) with Gradle, Thymeleaf, Hibernate, JPA, JUnit, Django (Python), MQL5, Vue.JS, MySQL, PostgreSQL, Docker, REST API, JWT ... and tools like: Jira, GitHub, CircleCI, IntelliJ IDEA, PyCharm, VS Code.*** 
 
 I participated on SW project developed by ***Scrum methodology***.
 
