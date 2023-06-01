@@ -7,6 +7,7 @@ Welcome to my page, my name is Marian Kubalec and I'm a alumni of Green Fox Acad
 * [My coding projects](#my-coding-projects)
   * [todo-user](#todo-user) (BE: Django (Python), FE: VueJS)
   * [be-ms-posts](#be-ms-posts) (Spring Boot (Java))
+  * [OOP study project](#oop-study-project) (Java)
 
 
 ## Work with me
@@ -44,6 +45,13 @@ https://github.com/mariankubalec/be-ms-posts
 * Spring Boot (Java)
 * DB: PostgreSQL
 * other integrated techs: Docker, Swagger (API doc)
+
+[Back to Table of Content](#table-of-content)
+
+### OOP study project:
+https://github.com/mariankubalec/be-ms-posts
+* RPG game
+* Java
 
 [Back to Table of Content](#table-of-content)
 
