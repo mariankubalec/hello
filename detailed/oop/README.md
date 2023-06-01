@@ -8,6 +8,6 @@ I created design:
 
 ![design](design.png)
 
-... abd did it (with some changes):
+... and did it (with some changes):
 
 ![classes](classes.png)
