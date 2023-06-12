@@ -5,7 +5,7 @@ Welcome to my page, my name is Marian Kubalec and I'm a alumni of Green Fox Acad
 ### Table of Content
 * [Work with me](#work-with-me)
 * [My coding projects](#my-coding-projects)
-  * [todo-user](#todo-user) (BE: Django (Python), FE: VueJS)
+  * [todo-user](#todo-user) (BE: Django (Python), FE: VueJS, DB: PostgreSQL)
   * [be-ms-posts](#be-ms-posts) (Spring Boot (Java))
   * [OOP study project](#oop-study-project) (Java)
 
@@ -30,12 +30,20 @@ Other ICT techs I worked with as a PM (from design to realisation):
 ## My coding projects
 
 ### todo-user:
-https://github.com/mariankubalec/todo-user 
+GitHub link: https://github.com/mariankubalec/todo-user 
 
-* simple TODO app with user authentication via JWT
+Deployment Link: https://todo-user.onrender.com/ 
+
+Simple TODO app.
+
+My targets:
+* play with user authentication via JWT
+* play with autodeployment from GitHub to render.com
+
+Technologies:
 * Backend: Django (Python)
 * Frontend: VueJS
-* DB: PostgreSQL
+* DB: PostgreSQL (I set DB on AWS)
 
 [Back to Table of Content](#table-of-content)
 
