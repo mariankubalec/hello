@@ -7,6 +7,7 @@ Welcome to my page, my name is Marian Kubalec and I'm a alumni of Green Fox Acad
 * [My coding projects](#my-coding-projects)
   * [todo-user](#todo-user) (BE: Django (Python), FE: VueJS, DB: PostgreSQL)
   * [be-ms-posts](#be-ms-posts) (Spring Boot (Java))
+  * [Final study project](#final-study-project) (BE: Django (Python), FE: VueJS, DB: PostgreSQL)
   * [OOP study project](#oop-study-project) (Java)
 
 
@@ -30,6 +31,9 @@ Other ICT techs I worked with as a PM (from design to realisation):
 ## My coding projects
 
 ### todo-user:
+
+Date: 2023/01
+
 GitHub link: https://github.com/mariankubalec/todo-user 
 
 Deployment Link: https://todo-user.onrender.com/ 
@@ -48,6 +52,9 @@ Technologies:
 [Back to Table of Content](#table-of-content)
 
 ### be-ms-posts:
+
+Date: 2023/05
+
 https://github.com/mariankubalec/be-ms-posts
 * backend API microservice for Posts management with external RESTful API support
 * Spring Boot (Java)
@@ -56,8 +63,30 @@ https://github.com/mariankubalec/be-ms-posts
 
 [Back to Table of Content](#table-of-content)
 
-### OOP study project:
+### Final Study project:
+
+Date: 2022/09-2022/10
+
+https://github.com/mariankubalec/hello/tree/main/detailed/final_study_project
+
+* 3 of 3 Study project - Project phase - real team coding
+* Dungeons & Dragons - online RPG game
+
+Technologies:
+
+* Backend: Django (Python)
+* Frontend: VueJS
+* DB: PostgreSQL
+* RabbitMQ
+
+[Back to Table of Content](#table-of-content)
+
+### OOP Study project:
+
+Date: 2022/05
+
 https://github.com/mariankubalec/hello/tree/main/detailed/oop
+* 1 of 3 Study project - Foundation phase
 * RPG game
 * Java
 
