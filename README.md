@@ -65,7 +65,7 @@ https://github.com/mariankubalec/be-ms-posts
 
 ### Final Study project:
 
-Date: 2022/09-2022/10
+Date: 2022/09 - 2022/10
 
 https://github.com/mariankubalec/hello/tree/main/detailed/final_study_project
 

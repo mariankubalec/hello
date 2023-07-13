@@ -1,6 +1,6 @@
 # Final Study project - Dungeons & Dragons
 
-Date: 2022/08-2022/11
+Date: 2022/09 - 2022/10
 
 * 3 of 3 Study project - Project phase - real team coding
 * Dungeons & Dragons
